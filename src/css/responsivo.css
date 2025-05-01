@@ -1,0 +1,38 @@
+@media (max-width: 750px) {
+  .arvores {
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0;
+  }
+
+  .cartao-arvore {
+    max-width: 300px;
+  }
+
+  .cartao-arvore .cartao-informaoes {
+    padding: 60px 30px 30px;
+    margin-top: -50px;
+  }
+
+  .cartao-arvore .cartao-informacoes h3 {
+    font-size: 20px;
+  }
+
+  .listagem {
+    max-width: 320px;
+  }
+
+  .listagem .arvore {
+    width: 45%;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-bottom: 0;
+    border-radius: 8px;
+  }
+  .listagem ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+}
