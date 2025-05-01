@@ -1,6 +1,6 @@
 **Bem-vindo(a) ao Projeto Belas Árvores**
 
-Este projeto consiste em uma apresentação visual de algumas das árvores mais belas para comtemplar.  Através de uma interface interativa, você poderá explorar imagens e descrições dessas importantes espécies.
+Este projeto consiste em uma apresentação visual de algumas das árvores mais belas para contemplar.  Através de uma interface interativa, você poderá explorar imagens e descrições dessas importantes espécies.
 
 ## Estrutura do Código:
 
@@ -26,7 +26,7 @@ O layout da página foi pensado para ser responsivo, o que significa que ele se 
 
 Você pode ver e interagir com este projeto clicando no link abaixo:
 
-[🔗 Acessar projeto no GitHub Pages]
+[🔗 Acessar projeto no GitHub Pages] (https://ataides-blume.github.io/belas-arvores/)
 
 ## Agradecimentos:
 
